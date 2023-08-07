@@ -1,0 +1,65 @@
+*{
+    margin: 0; padding: 0;
+
+}
+
+.icon-container{
+    padding: 30px 0;
+}
+
+
+
+.box{
+    /* border: 1px solid green; */
+    padding: 20px 0;
+    height: 100px;
+}
+.box .fa{
+ background-color: #34bf49;
+ color: white;
+  font-size: 20px;
+  margin-left:15px;
+  /* border: 1px solid black; */
+  padding: 11px;
+  border-radius: 5px;
+}
+
+.box .fa:hover{
+    background: white;
+    color: #34bf49;
+    border: 1px solid #34bf49;
+}
+.box p{
+    font-size: 13px;
+    margin-left: 0;
+    line-height: 20px;
+}
+
+/* ================================================================= */
+
+.contact-input{
+    padding: 50px 0;
+}
+
+.contact-input input{
+    border:1px solid #34bf49;
+    text-align: start;
+}
+
+.contact-input input:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.contact-input .my-button{
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 20px;
+    border: none;
+}
+.contact-input .my-button:hover{
+    background: white;
+    color: #34bf49;
+    border: 1px solid #34bf49;
+}
+

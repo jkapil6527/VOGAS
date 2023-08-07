@@ -1,0 +1,922 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+
+
+}
+
+.big-wrapper-nav {
+    width: 100%;
+
+
+}
+
+.big-wrapper-nav .position {
+    position: relative;
+}
+
+.big-wrapper-nav .navbar-tap {
+    margin-top: 30px;
+    border: 1px solid black;
+
+}
+
+.big-wrapper-nav .nav-button {
+    background: #fff;
+    position: relative;
+    top: -6px;
+    color: rgb(62, 62, 180);
+    font-size: 17px;
+
+}
+
+
+
+
+.big-container .color {
+    color: #34bf49;
+}
+
+
+.big-container ul {
+    list-style: none;
+    /* border: 1px solid red; */
+    margin-top: 20px;
+
+}
+
+.big-container li {
+    /* list-style: none; */
+    /* border: 1px solid red; */
+    margin-top: 20px;
+    padding: 8px 0;
+    font-size: 16px;
+    margin-left: 10px;
+
+
+
+}
+
+.big-wrapper-nav .nav-btn {
+    margin-top: 23px;
+    height: 35px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+
+
+
+.big-container li a {
+    list-style: none;
+    text-decoration: none;
+    /* border: 1px solid greenyellow; */
+    margin-right: 25px;
+    font-size: 16px;
+
+}
+
+/* ======================================================================= */
+
+
+#sec-1 {
+    margin: 0;
+    padding: 0;
+}
+
+#section-2 {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* ============================================================================= */
+#sec-1 {
+    width: 100%;
+    /* border: 1px solid red; */
+    padding: 100px 0;
+}
+
+#sec-1 .left h1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#sec-1 .left p {
+    font-size: 13px;
+    margin-top: 40px;
+
+}
+
+#sec-1 .my-button {
+    background: #34bf49;
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 32%;
+    margin: 40px auto;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+
+}
+
+#sec-1 .my-button:hover {
+    background-color: #34bf49c8;
+}
+
+#sec-1 .right {
+    margin-top: 40px;
+}
+
+#sec-1 img {
+    width: 100%;
+    margin-top: 0;
+}
+
+
+/* section-2================ */
+
+#section-2 {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 50px 0;
+    /* border: 1px solid red; */
+}
+
+.my-container {
+    background-color: white;
+    /* margin: 40px 0; */
+    padding: 60px 0;
+
+
+}
+
+
+.my-container img {
+    width: 100%;
+    height: 55vh;
+}
+
+.my-container .left {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.my-container p {
+    font-size: 14px;
+    margin-top: 40px;
+}
+
+.my-container h2 {
+    font-size: 24px;
+    font-weight: 400;
+
+}
+
+.my-container button {
+    /* margin-top: 20px; */
+    background: #34bf49;
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 31%;
+    margin: 40px auto;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+}
+
+/* .my-container-2 start */
+
+
+.my-container-2 {
+    width: 70%;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    /* margin: 120px 0; */
+    padding: 40px 0;
+}
+
+.my-container-2 .fa {
+    font-size: 40px;
+    color: #34bf49;
+}
+
+.my-container-2 h3 {
+    font-size: 19px;
+    font-weight: 500;
+    color: black;
+}
+
+.my-container-2 p {
+    font-size: 14px;
+}
+
+/* ========================================= */
+
+.my-container-3 {
+    padding: 70px 0;
+    /* border: 1px solid black; */
+}
+
+.my-container-3 img {
+
+    width: 100%;
+
+}
+
+.my-container-3 h3 {
+    font-size: 24px;
+}
+
+.my-container-3 p {
+    margin-top: 50px;
+    line-height: 25px;
+}
+
+.my-container-3 h2 {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 25px;
+    color: #34bf49;
+}
+
+.my-container-3 hr {
+    /* border: 1px solid #34bf49; */
+    width: 20%;
+}
+
+.my-container-3 p {
+    /* width: 60%; */
+    font-size: 13px;
+    margin-top: 0;
+}
+
+/* my-container 3 end */
+/* menu enddddd================ */
+
+article {
+    padding: 40px 0;
+    width: 100%;
+    /* border: 1px solid red; */
+
+}
+
+.my-article {
+    padding: 50px 0;
+    /* border: 1px solid black; */
+}
+
+.my-article img {
+    width: 100%;
+
+}
+
+.my-article .head p {
+    margin-top: 20px;
+}
+
+.my-article .head h4 {
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 20px;
+
+}
+
+.my-article .box p {
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+    /* margin-left: 20px; */
+
+}
+
+.my-article .box span {
+    color: grey;
+}
+
+.my-article .box h5 {
+    font-size: 13px;
+    line-height: 19px;
+    margin-left: 20px;
+}
+
+.my-article .box h4 {
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+.border {
+    margin-top: 20px;
+    /* border: 1px solid black; */
+
+}
+
+/* big-wrapper===================== */
+
+.big-wrapper {
+    width: 100%;
+    background: #f5f5f5;
+
+}
+
+.wrapper-content {
+
+    padding: 80px 0;
+
+
+}
+
+.wrapper-content .fa:hover {
+    background-color: #000000;
+    color: white;
+
+
+}
+
+.wrapper-content .left h4 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 20px;
+
+}
+
+.wrapper-content p {
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.wrapper-content .fa {
+    /* border: 1px solid greenyellow; */
+    font-size: 25px;
+    margin-top: 25px;
+
+    background-color: #34bf49;
+    padding: 7px;
+    border-radius: 6px;
+    color: white;
+}
+
+.wrapper-content .right img {
+    width: 98%;
+    margin: 0 auto;
+}
+
+/* Menu Start================== */
+
+.menu {
+    width: 100%;
+    padding: 60px 0;
+
+}
+
+
+
+.my-menu .left span {
+    font-size: 13px;
+    color: grey;
+
+}
+
+.my-menu .left h3 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.my-menu .left p {
+    font-size: 14px;
+    margin-top: 30px;
+    line-height: 24px;
+}
+
+.my-menu .left .my-button {
+    background: #34bf49;
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 31%;
+    margin: 40px auto;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+}
+
+.my-menu .left .my-button:hover {
+    background-color: #0daa24;
+}
+
+.my-menu .right .fa {
+    font-size: 50px;
+    color: #34bf49;
+    margin-top: 30px;
+
+}
+
+.my-menu .right h4 {
+    margin-top: 20px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.my-menu .right p {
+    font-size: 13px;
+    line-height: 20px;
+}
+
+/* ====================================== */
+
+.price-menu {
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 60px 0;
+
+}
+
+.container-menu {
+    text-align: center;
+}
+
+.container-menu .box {
+    background-color: white;
+    padding: 30px 0;
+    margin-top: 30px;
+}
+
+.price-menu .price {
+    font-size: 50px;
+    color: black;
+}
+
+.container-menu h2 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.container-menu p {
+    margin: 40px 0;
+    line-height: 45px;
+    width: 45%;
+    margin: 0 auto;
+    color: grey;
+}
+
+.container-menu .box .currency {
+    position: relative;
+    top: -20px;
+    font-size: 25px;
+    color: #34bf49;
+}
+
+.price-menu .price-green {
+    font-size: 50px;
+    color: #34bf49;
+}
+
+.container-menu .box .my-btn {
+    background-color: #fff;
+    color: #34bf49;
+
+    border: 1px solid #34bf49;
+    font-size: 14px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    border-radius: 20px;
+}
+
+.container-menu .box .my-btn-1 {
+    background-color: #34bf49;
+    ;
+    color: white;
+    width: 40%;
+    border: 1px solid #34bf49;
+    font-size: 14px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    border-radius: 20px;
+}
+
+.box .my-btn:hover {
+    background: #34bf49;
+    color: white;
+}
+
+.box .my-btn-1:hover {
+    background-color: white;
+    color: #34bf49;
+}
+
+/* price table end=========================================== */
+
+.plans {
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 40px;
+    padding: 40px 0;
+
+}
+
+
+.plans .plans-text p {
+    margin-bottom: 0;
+}
+
+
+.plans-menu {
+    padding: 15px 0;
+    background-color: white;
+    text-align: left;
+
+    margin-top: 30px;
+    margin-bottom: 0;
+
+}
+
+.price-menu .plans-menu summary {
+    /* margin-top: 20px; */
+    padding: 15px 0;
+}
+
+.price-menu .plans-menu summary .fa {
+    margin-left: 10px;
+    color: #0daa24;
+}
+
+.price-menu .plans-menu summary .fa:hover {
+    color: #000000;
+    cursor: pointer;
+}
+
+.price-menu .plans-menu p {
+    font-size: 14px;
+    background: #f5f5f5;
+    margin-left: 30px;
+
+}
+
+.price-menu .plans-menu summary:hover {
+    color: #34bf49;
+    cursor: pointer;
+}
+
+/* ===================================================== */
+
+.feedback {
+    width: 100%;
+}
+
+.feedback .feedback-text {
+    text-align: center;
+
+    /* border:1px solid red ; */
+    padding: 60px 0;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.feedback .feedback-text h3 {
+    margin-top: 15px;
+}
+
+.feedback .feedback-text p {
+    margin-top: 20px;
+    font-size: 13px;
+    color: grey;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.feedback .feedback-text img {
+    width: 8%;
+    margin: 0 auto;
+}
+
+.feedback .feedback-text h2 {
+    font-size: 20px;
+    /* border: 1px solid rebeccapurple; */
+}
+
+/* =================================================================== */
+
+
+.footer {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+}
+
+.footer-container {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.359);
+}
+
+.footer .box h3 {
+    margin-top: 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.footer .box p {
+    font-size: 13px;
+    color: grey;
+    /* margin-top: 19px; */
+    line-height: 24px;
+}
+
+
+.footer .box .fa {
+    padding: 5px;
+    margin-left: 0;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.footer .box .fa:hover {
+    background: white;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.footer .box span {
+    font-size: 10px;
+    margin-bottom: 0;
+    color: gray;
+}
+
+.footer .box h1 {
+    /* border: 1px solid green; */
+    margin-top: 60px;
+    font-size: 15px;
+    margin-bottom: 0;
+
+}
+
+.footer .box input {
+    padding: 6px 0;
+    margin-top: 15px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.footer .box input:hover {
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+}
+
+.footer .box .footer-btn {
+    margin-top: 24px;
+    border-radius: 20px;
+    font-size: 13px;
+    width: 40%;
+
+}
+
+.footer-line p {
+    font-size: 11px;
+    margin-top: 5px;
+    /* border: 1px solid red; */
+}
+
+
+.big-wrapper .left .box-1:hover {
+    background-color: #fff;
+    cursor: pointer;
+}
+
+/* contact css==================================================== */
+
+
+
+
+/* ========================Media Query================================ */
+
+@media only screen and (max-width:1000px) {
+
+    #sec-1 {
+        padding: 30px 0;
+
+    }
+
+
+    #sec-1 .left h1 {
+        margin-bottom: 10px;
+        font-size: 23px;
+    }
+
+    #sec-1 .left p {
+        font-size: 13px;
+        margin-top: 25px;
+
+    }
+
+    #sec-1 .my-button {
+        margin: 25px auto;
+
+    }
+
+    #sec-1 .right {
+        margin-top: 25px;
+    }
+
+
+    #section-2 {
+        padding: 25px 0;
+
+    }
+
+    .my-container {
+        padding: 30px 0;
+
+    }
+
+
+    .my-container p {
+        font-size: 14px;
+        margin-top: 25px;
+    }
+
+    .my-container h2 {
+        font-size: 22px;
+
+    }
+
+    .my-container button {
+        margin: 20px auto;
+
+    }
+
+    .my-container img {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .my-container-2 {
+        padding: 25px 0;
+    }
+
+    .my-container-2 .fa {
+        font-size: 30px;
+    }
+
+    .my-container-2 h3 {
+        font-size: 16px;
+    }
+
+    .my-container-2 p {
+        font-size: 12px;
+    }
+
+    /*  */
+
+    .my-container-3 {
+        padding: 40px 0;
+    }
+
+
+    .my-container-3 h3 {
+        font-size: 22px;
+        margin-left: 10px;
+    }
+
+    .my-container-3 p {
+        margin-top: 30px;
+        line-height: 23px;
+        margin-left: 10px;
+    }
+
+    .my-container-3 h2 {
+        margin-top: 30px;
+        text-align: left;
+        font-size: 22px;
+    }
+
+    /* ======================= */
+
+    .my-article {
+        padding: 0;
+        text-align: center;
+    }
+
+    .my-article .head p {
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+
+    .my-article .head h4 {
+        font-size: 21px;
+        margin-bottom: 5px;
+
+    }
+
+    .my-article .box p {
+        margin-left: 10px;
+        text-align: center;
+
+    }
+
+    .my-article .box h5 {
+        font-size: 11px;
+
+    }
+
+    .my-article .box h4 {
+        font-size: 12px;
+
+
+    }
+
+    .footer {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .footer-container {
+        padding: 10px 0;
+    }
+
+    .footer .box h3 {
+        margin-top: 20px;
+        margin-bottom: 12px;
+
+    }
+
+    .footer .box p {
+        line-height: 20px;
+
+    }
+
+    .footer .box h1 {
+
+        margin-top: 5px
+    }
+
+    .footer .box .footer-btn {
+
+        width: 40%;
+        /* margin: 20px auto; */
+
+    }
+}
+
+@media only screen and (max-width:950px) {
+
+
+    .my-article img {
+        width: 60%;
+        margin: 0 auto;
+
+    }
+
+}
+
+@media only screen and (max-width:470px) {
+
+    #sec-1 .my-button {
+
+        width: 50%;
+        margin: 20px auto;
+
+
+    }
+
+    .my-container button {
+        width: 50%;
+        margin: 20px auto;
+    }
+
+    .my-menu .left .my-button {
+        width: 50%;
+        margin: 20px auto;
+    }
+
+    .container-menu .box .my-btn {
+        width: 50%;
+        margin: 20px auto;
+    }
+
+    .container-menu .box .my-btn-1 {
+
+        width: 50%;
+        margin: 20px auto;
+    }
+
+
+
+
+
+
+}
